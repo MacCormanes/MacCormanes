@@ -1,6 +1,6 @@
 
 # Hi, I'm Jan Marc Cormanes, you can call me Mac!
-![JS Mastery Pro](https://photos.app.goo.gl/CvckVkHcZCAq1ePb7)
+![Banner](https://lh3.googleusercontent.com/pw/AP1GczO20g0uNa8aj9nHaaHGLAdrxy8HLonpjFharzQgWu873rLfT7iGbAuIjIHTE_kETtx70cgULChMuodH15gbBcs8vFB1EG7NGlICuFDZjOhJmtwBkqsZQV0M-FgV35kSfAFb-7rh6bRFBH6dTLr7Qpue=w1143-h572-s-no-gm?authuser=0)
 
 🔭 I’m currently open for new opportunities and actively looking for work.
 
